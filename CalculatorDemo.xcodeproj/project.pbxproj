@@ -12,6 +12,9 @@
 		0152914D1D97A1A5005B69C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0152914B1D97A1A5005B69C6 /* Main.storyboard */; };
 		0152914F1D97A1A5005B69C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0152914E1D97A1A5005B69C6 /* Assets.xcassets */; };
 		015291521D97A1A5005B69C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 015291501D97A1A5005B69C6 /* LaunchScreen.storyboard */; };
+		0152915A1D97A1DC005B69C6 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 015291591D97A1DC005B69C6 /* btn.wav */; };
+		0152915D1D97A1FF005B69C6 /* Minecrafter.Alt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0152915B1D97A1FE005B69C6 /* Minecrafter.Alt.ttf */; };
+		0152915E1D97A1FF005B69C6 /* Minecrafter.Reg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0152915C1D97A1FF005B69C6 /* Minecrafter.Reg.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		0152914E1D97A1A5005B69C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		015291511D97A1A5005B69C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		015291531D97A1A5005B69C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		015291591D97A1DC005B69C6 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		0152915B1D97A1FE005B69C6 /* Minecrafter.Alt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Alt.ttf; sourceTree = "<group>"; };
+		0152915C1D97A1FF005B69C6 /* Minecrafter.Reg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Reg.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				0152914E1D97A1A5005B69C6 /* Assets.xcassets */,
 				015291501D97A1A5005B69C6 /* LaunchScreen.storyboard */,
 				015291531D97A1A5005B69C6 /* Info.plist */,
+				015291591D97A1DC005B69C6 /* btn.wav */,
+				0152915B1D97A1FE005B69C6 /* Minecrafter.Alt.ttf */,
+				0152915C1D97A1FF005B69C6 /* Minecrafter.Reg.ttf */,
 			);
 			path = CalculatorDemo;
 			sourceTree = "<group>";
@@ -127,6 +136,9 @@
 				015291521D97A1A5005B69C6 /* LaunchScreen.storyboard in Resources */,
 				0152914F1D97A1A5005B69C6 /* Assets.xcassets in Resources */,
 				0152914D1D97A1A5005B69C6 /* Main.storyboard in Resources */,
+				0152915A1D97A1DC005B69C6 /* btn.wav in Resources */,
+				0152915D1D97A1FF005B69C6 /* Minecrafter.Alt.ttf in Resources */,
+				0152915E1D97A1FF005B69C6 /* Minecrafter.Reg.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
